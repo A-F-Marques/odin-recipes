@@ -1,1 +1,2 @@
-# odin-recipes
+Project used showcase my HTML abilities
+
